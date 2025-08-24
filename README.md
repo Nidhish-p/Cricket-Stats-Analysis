@@ -39,7 +39,7 @@ An **interactive Tableau dashboard** complements the static analysis for deeper 
 
 👉 Click the image below to explore the **Tableau Dashboard**:  
 
-[![Dashboard Preview](images/dashboard_preview.png)](https://public.tableau.com/app/profile/your_dashboard_link_here](https://public.tableau.com/views/CricketAnalysis_17069684647580/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[![Dashboard Preview](Dashboard.png)](https://public.tableau.com/app/profile/your_dashboard_link_here](https://public.tableau.com/views/CricketAnalysis_17069684647580/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ))
 
 ---
